@@ -1,0 +1,99 @@
+body {
+  background-color: antiquewhite;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', monospace;
+  text-align: center;
+}
+
+a {
+  color: blueviolet;
+}
+a:hover {
+  color: fuchsia;
+}
+
+h1 {
+  font-weight: 900;
+  color: darkred;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+table {
+  margin: 0 auto 25px auto;
+}
+
+#colorHead th {
+  background-color: darkolivegreen;
+  color: white;
+}
+
+tr, th, td {
+  border: 1px solid white;
+  padding: 10px 10px;
+}
+
+#black {
+  background-color: black;
+}
+
+#silver {
+  background-color: silver;
+}
+
+#gray {
+  background-color: gray;
+}
+
+#white {
+  background-color: white;
+}
+
+#maroon {
+  background-color: maroon;
+}
+
+#red {
+  background-color: red;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#fuchsia {
+  background-color: fuchsia;
+}
+
+#green {
+  background-color: green;
+}
+
+#lime {
+  background-color: lime;
+}
+
+#olive {
+  background-color: olive;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#navy {
+  background-color: navy;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#teal {
+  background-color: teal;
+}
+
+#aqua {
+  background-color: aqua;
+}
